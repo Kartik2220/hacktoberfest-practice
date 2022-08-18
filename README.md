@@ -145,6 +145,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 - You can also ask for help in our [Discord server](http://discord.eddiehub.org) or submit an issue in the [Support repository](https://github.com/EddieHubCommunity/support).
 
 ---
+<div align="center">
 
 ## `Hacktoberfest Community`
 
@@ -157,6 +158,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) |
 | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) |
 |         |         | [Z](#z) |
+</div>
 
 ---
 
